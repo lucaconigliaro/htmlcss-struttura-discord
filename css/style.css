@@ -36,7 +36,7 @@
     height: 400px;
 }
 
-.second-section.4th-section {
+.second-section.fourth-section {
     background-color: #ffffff;
     height: 400px;
 }
@@ -47,7 +47,7 @@
     justify-content: space-between;
     padding: 30px;
 
-    border: 2px solid green;
+    border: 2px dashed green;
     min-height: 300px;
 }
 
@@ -63,4 +63,38 @@
 
 .third-section {
     background-color: #d3d3d3;
+}
+
+.fifth-section {
+    background-color:#d3d3d3;
+    height: 800px;
+}
+
+.row-2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+    border: 2px solid green;
+    min-height: 800px;
+}
+
+.col-100 {
+    width: 100%;
+    background-color: #4CAF50;
+}
+
+/* FOOTER */
+.footer-section {
+    background-color: #23272a;
+}
+
+.col-40 {
+    width: 40%;
+    background-color: #f08080;
+}
+
+.col-15 {
+    width: 15%;
+    background-color: #20b2aa;
 }
