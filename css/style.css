@@ -28,3 +28,39 @@
     justify-content: space-between;
     padding: 10px;
 }
+
+/* MAIN  */
+
+.first-section {
+    background-color: #00008b;
+    height: 400px;
+}
+
+.second-section.4th-section {
+    background-color: #ffffff;
+    height: 400px;
+}
+
+
+.row-1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+    border: 2px solid green;
+    min-height: 300px;
+}
+
+.col-70 {
+    width: 70%;
+    background-color: #1e90ff;
+}
+
+.col-30 {
+    width: 30%;
+    background-color: #ffc0cb;
+}
+
+.third-section {
+    background-color: #d3d3d3;
+}
