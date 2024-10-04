@@ -36,6 +36,12 @@
     height: 400px;
 }
 
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: #9C27B0;
+}
+
 .second-section.fourth-section {
     background-color: #ffffff;
     height: 400px;
@@ -97,4 +103,25 @@
 .col-15 {
     width: 15%;
     background-color: #20b2aa;
+}
+
+.row-3 {
+    background-color:#7fffd4;
+    border: 1px dashed black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.end-footer {
+    height: 60px;
+    background-color: #23272a;
+}
+
+.ended-logo {
+    background-color: #ffb6c1;
+}
+
+.ended-login {
+    background-color: #ffb6c1;
 }
